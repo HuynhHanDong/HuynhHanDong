@@ -1,7 +1,7 @@
 # 👋 My name is Huỳnh Hân Đồng
 ## 👨‍💻 About Me:
 I'm a Back-end developer and AI engineer from Vietnam.
-- 🌱 I’m currently studying Artificial I ntelligence at FPT University.
+- 🌱 I’m currently studying Artificial Intelligence at FPT University.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: huynhhandong@gmail.com
 
