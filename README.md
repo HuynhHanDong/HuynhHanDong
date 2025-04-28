@@ -1,5 +1,5 @@
 # 👋 My name is Huỳnh Hân Đồng
-## 👨‍💻 About Me:
+## 👨‍💻 About Me :
 I'm a Back-end developer and AI engineer from Vietnam.
 - 🌱 I’m currently studying Artificial Intelligence at FPT University.
 - 😄 Pronouns: he/him
@@ -7,7 +7,7 @@ I'm a Back-end developer and AI engineer from Vietnam.
 
 ---
 
-## 💻 Technology Stack:
+## 💻 Technology Stack :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -23,7 +23,7 @@ I'm a Back-end developer and AI engineer from Vietnam.
 
 ## 📊 My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuynhHanDong&theme=youtube-dark&hide_border=true&border_radius=14.4&card_width=500" alt="GitHub Streak" /></a> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHanDong&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhHanDong&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 HuynhHanDong/HuynhHanDong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
